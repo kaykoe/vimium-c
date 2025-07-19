@@ -1,0 +1,38 @@
+{
+	"name": "Vimium C",
+	"@time": "7/19/2025, 10:50:23 PM",
+	"time": 1752958223611,
+	"environment": {
+		"extension": "2.12.3",
+		"platform": "win",
+		"firefox": 140
+	},
+	"exclusionRules": [
+		{
+			"passKeys": "",
+			"pattern": ":https://monkeytype.com/"
+		},
+		{
+			"passKeys": "",
+			"pattern": ":https://leetcode.com/"
+		},
+		{
+			"passKeys": "",
+			"pattern": ":https://www.coolmathgames.com/"
+		},
+		{
+			"passKeys": "",
+			"pattern": ":https://cstimer.net/"
+		}
+	],
+	"keyLayout": 2,
+	"keyMappings": [
+		"#!no-check",
+		"map o Vomnibar.activateInNewTab",
+		"unmap <c-e>",
+		""
+	],
+	"linkHintCharacters": "arstneiodhcu",
+	"searchUrl": "https://duckduckgo.com/?q=$s DuckDuckGo",
+	"vimSync": true
+}
